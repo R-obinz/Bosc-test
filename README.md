@@ -1,4 +1,4 @@
-# Bosc-test# Album 
+# Bosc-test# Gallery App
 
 A simple, fast and light gallery app  
 
